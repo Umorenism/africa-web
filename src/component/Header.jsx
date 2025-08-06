@@ -59,7 +59,7 @@ const AppHeader = () => {
           <a href="#" className={`font-semibold text-[18px] ${textColor}`}>Testimonials</a>
           <a href="#" className={`font-semibold text-[18px] ${textColor}`}>Blog</a>
           <a href="#" className={`font-semibold text-[18px] ${textColor}`}>Contact</a>
-          {/* <a href="#" className={`font-semibold text-[18px] ${textColor}`}>BRAND</a> */}
+          
         </nav>
 
         {/* Desktop Button */}

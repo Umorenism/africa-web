@@ -2,10 +2,6 @@ import  { useState, useEffect } from "react";
 import pic1 from "../assets/afrca.jpeg";
 import pic2 from "../assets/africa2.jpg";
 import pic3 from "../assets/africa3.jpg";
-// import Services from "./Services";
-// import Customers from "./Customers";
-// import Banner from "./Banner";
-// import ShopBy from "./ShopBy";
 
 const Hero = () => {
   const images = [pic1, pic2, pic3];
@@ -60,10 +56,6 @@ const Hero = () => {
         </div>
       </section>
 
-      {/* <Services /> */}
-      {/* <Customers />
-      <Banner/>
-      <ShopBy/> */}
     </>
   );
 };
