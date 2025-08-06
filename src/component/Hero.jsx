@@ -42,10 +42,7 @@ const Hero = () => {
                 Welcome to Africa United Space
               </h1>
               <p className="text-lg lg:text-xl font-medium mb-8">
-                Africa United Space is where culture meets creativity — a hub
-                for bold expression, unity, and innovation. We celebrate African
-                identity through art, fashion, and community. This is more than
-                a brand — it's a movement.
+                We provide a range of services to support space missions,satelites deployments and aerospace research
               </p>
 
               <button className="bg-green-600 text-white px-8 py-3 font-semibold rounded hover:bg-white hover:text-green-600 transition">
